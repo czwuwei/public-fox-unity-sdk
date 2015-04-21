@@ -28,7 +28,7 @@ F.O.Xで計測された情報を使い、ユーザーに対してプッシュ通
 
 以下のページより最新のSDKをダウンロードしてください。
 
-[SDKリリースページ](https://github.com/cyber-z/public_fox_unity_sdk/releases)
+[SDKリリースページ](https://github.com/cyber-z/public-fox-unity-sdk/releases)
 
 既にアプリケーションにSDKが導入されている場合には、[最新バージョンへのアップデートについて](./doc/update/ja)をご参照ください。
 
